@@ -1,0 +1,13 @@
+{
+  "message": "전송 성공_1", 
+  "total_score": 0.4,
+  "last_status": {
+    "frame": 18,
+    "points": [
+      { "id": 0, "name": "pelvis", "x": 0, "y": 0, "z": 0 , "rotation": 0}
+    ]
+  },
+  "part_score": [
+    [0.2, 0.6, 0.0, 0.8]
+  ]
+}
