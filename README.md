@@ -28,8 +28,11 @@ AI 에이전트와의 실시간 대화, 퍼포먼스 인터랙션, 그리고 몰
 - 🎬 **시네마틱 시퀀스**: 고품질 영상 제작 파이프라인
 - 🔊 **TTS(Text-to-Speech)**: AI 에이전트의 음성 출력 기능
 - 🌐 **네트워크 시스템**: HTTP 기반 멀티플레이어 지원
-
 ---
+   
+## 시연 영상
+![시연영상 미리보기](https://github.com/jjonjung/AiNextIdol/blob/main/add/preview.gif)
+<br>[🌐 전체 영상 보기](https://www.youtube.com/watch?v=aDB8leI7EpA)
 
 ## ✓ 기술 스택 & 도구
 
